@@ -1,6 +1,6 @@
-# Decision Bench
+# My Take on Jev
 
-**Jev's open rivals, measured.** An independent test of open System One decision models on support routing, and of whether their confidence is honest.
+**Its open rivals, measured.** An independent test of open System One decision models on support routing, and of whether their confidence is honest.
 
 Decision models answer typed questions (yes or no, pick one, rate 1 to 5) with a probability for every answer, instead of writing text. Within weeks of TypeSafe's Jev, several open ones appeared, measured almost only by their makers. This project tests them, alongside a general language model and plain keyword rules, on 250 made-up support requests, and asks two things: are they accurate, and **when they say 90% sure, are they right 90% of the time?**
 
