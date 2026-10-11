@@ -439,7 +439,7 @@ The difference that matters at scale is not only the 1,600 fewer misrouted ticke
 
 ## 9. Reproducing this report
 
-Everything runs from `projects/decision-models/`, with Python 3 and no third-party packages for the harness.
+Everything runs from the root of the [decision-models repository](https://github.com/kmsmohamedansar/decision-models), with Python 3 and no third-party packages for the harness.
 
 ```
 python3 scripts/build_testset.py       # rebuilds and checks the test set
