@@ -1,6 +1,6 @@
-# Is the confidence honest?
+# Decision Bench
 
-## Testing open System One decision models on support routing
+## Jev's open rivals, measured. Is their confidence honest? Testing open System One decision models on support routing
 
 **Mohamed Ansar** · Technical report · 11 October 2026
 
