@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you reference this study, please cite the technical report."
+type: generic
+title: "My Take on Jev: Testing open System One decision models on support routing"
+authors:
+  - given-names: Mohamed
+    family-names: Ansar
+date-released: 2026-10-11
+url: "https://ansarbuilds.dev/p/decision-models/report.html"
+repository-code: "https://github.com/kmsmohamedansar/decision-models"
