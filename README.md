@@ -6,6 +6,8 @@ This project tests several models on the same support-routing decisions and chec
 
 **Status:** Completed independent evaluation using a made-up support dataset.
 
+[![Tests](https://github.com/kmsmohamedansar/decision-models/actions/workflows/tests.yml/badge.svg)](https://github.com/kmsmohamedansar/decision-models/actions/workflows/tests.yml)
+
 
 **Its open rivals, measured.** An independent test of open System One decision models on support routing, and of whether their confidence is honest.
 
@@ -56,6 +58,8 @@ python3 scripts/score.py             # tables and calibration chart
 ```
 
 Each decision model runs behind its own local `/v1/systemone` server; the commands are in `docs/models.md` and `NOTES.md`.
+
+GitHub Actions runs the harness tests on Python 3.9 and 3.12. These tests do not rerun the model evaluation or independently reproduce its results.
 
 ## About
 
